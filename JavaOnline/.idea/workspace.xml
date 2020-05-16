@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="55ecd603-fff6-4dbf-a99a-547f2fb7b95d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="autoscrollToSource" value="true" />
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UrGiV5gnNeqphn5oXyrUPfotAV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.ExercicioControloDeFluxo3">
+    <configuration name="ControleDeFluxo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ControleDeFluxo2" />
+      <module name="untitled104" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DiaDeSemanaSwitch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DiaDeSemanaSwitch" />
+      <module name="untitled104" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExercicioControloDeFluxo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExercicioControloDeFluxo3" />
+      <module name="untitled104" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExercicioControloFluxo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExercicioControloFluxo" />
+      <module name="untitled104" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesteFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TesteFor" />
+      <module name="untitled104" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ExercicioControloDeFluxo3" />
+        <item itemvalue="Application.TesteFor" />
+        <item itemvalue="Application.DiaDeSemanaSwitch" />
+        <item itemvalue="Application.ExercicioControloFluxo" />
+        <item itemvalue="Application.ControleDeFluxo2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="55ecd603-fff6-4dbf-a99a-547f2fb7b95d" name="Default Changelist" comment="" />
+      <created>1576107427318</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576107427318</updated>
+      <workItem from="1576107428882" duration="315000" />
+      <workItem from="1576538537213" duration="1917000" />
+      <workItem from="1577386871836" duration="6795000" />
+      <workItem from="1582006916725" duration="214000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="416" y="82" key="#Main" timestamp="1576538609017">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state x="416" y="82" key="#Main/0.23.1440.831@0.23.1440.831" timestamp="1576538609017" />
+    <state x="196" y="79" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576107512671">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state x="196" y="79" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.829@0.23.1440.829" timestamp="1576107512671" />
+    <state width="1398" height="200" key="GridCell.Tab.0.bottom" timestamp="1577719364192">
+      <screen x="0" y="23" width="1920" height="996" />
+    </state>
+    <state width="1358" height="200" key="GridCell.Tab.0.bottom/0.23.1440.830@0.23.1440.830" timestamp="1576925958108" />
+    <state width="1358" height="200" key="GridCell.Tab.0.bottom/0.23.1440.831@0.23.1440.831" timestamp="1576540222098" />
+    <state width="1398" height="200" key="GridCell.Tab.0.bottom/0.23.1920.996@0.23.1920.996" timestamp="1577719364192" />
+    <state width="1491" height="200" key="GridCell.Tab.0.bottom/1920.23.1280.777/-1920.23.1920.1057/0.23.1920.996@-1920.23.1920.1057" timestamp="1577467365216" />
+    <state width="1398" height="200" key="GridCell.Tab.0.center" timestamp="1577719364190">
+      <screen x="0" y="23" width="1920" height="996" />
+    </state>
+    <state width="1358" height="200" key="GridCell.Tab.0.center/0.23.1440.830@0.23.1440.830" timestamp="1576925958108" />
+    <state width="1358" height="200" key="GridCell.Tab.0.center/0.23.1440.831@0.23.1440.831" timestamp="1576540222097" />
+    <state width="1398" height="200" key="GridCell.Tab.0.center/0.23.1920.996@0.23.1920.996" timestamp="1577719364190" />
+    <state width="1491" height="200" key="GridCell.Tab.0.center/1920.23.1280.777/-1920.23.1920.1057/0.23.1920.996@-1920.23.1920.1057" timestamp="1577467365215" />
+    <state width="1398" height="200" key="GridCell.Tab.0.left" timestamp="1577719364189">
+      <screen x="0" y="23" width="1920" height="996" />
+    </state>
+    <state width="1358" height="200" key="GridCell.Tab.0.left/0.23.1440.830@0.23.1440.830" timestamp="1576925958107" />
+    <state width="1358" height="200" key="GridCell.Tab.0.left/0.23.1440.831@0.23.1440.831" timestamp="1576540222097" />
+    <state width="1398" height="200" key="GridCell.Tab.0.left/0.23.1920.996@0.23.1920.996" timestamp="1577719364189" />
+    <state width="1491" height="200" key="GridCell.Tab.0.left/1920.23.1280.777/-1920.23.1920.1057/0.23.1920.996@-1920.23.1920.1057" timestamp="1577467365214" />
+    <state width="1398" height="200" key="GridCell.Tab.0.right" timestamp="1577719364191">
+      <screen x="0" y="23" width="1920" height="996" />
+    </state>
+    <state width="1358" height="200" key="GridCell.Tab.0.right/0.23.1440.830@0.23.1440.830" timestamp="1576925958108" />
+    <state width="1358" height="200" key="GridCell.Tab.0.right/0.23.1440.831@0.23.1440.831" timestamp="1576540222097" />
+    <state width="1398" height="200" key="GridCell.Tab.0.right/0.23.1920.996@0.23.1920.996" timestamp="1577719364191" />
+    <state width="1491" height="200" key="GridCell.Tab.0.right/1920.23.1280.777/-1920.23.1920.1057/0.23.1920.996@-1920.23.1920.1057" timestamp="1577467365215" />
+    <state x="548" y="295" key="com.intellij.ide.util.TipDialog" timestamp="1577386911504">
+      <screen x="0" y="23" width="1920" height="996" />
+    </state>
+    <state x="411" y="250" key="com.intellij.ide.util.TipDialog/0.23.1440.831@0.23.1440.831" timestamp="1576538537337" />
+    <state x="548" y="295" key="com.intellij.ide.util.TipDialog/0.23.1920.996@0.23.1920.996" timestamp="1577386911504" />
+  </component>
+</project>
